@@ -1,6 +1,8 @@
 
 # DeepSeek-Trading Bot Design
 
+(This is version 1 and you want more efficent and perfect bot for your trading, please contact to me!)
+
 ## 1. Core Features
 - **Data Collection**: Fetch real-time and historical data from DexScreener or other sources.
 - **Data Parsing**: Extract relevant information (e.g., price, volume, liquidity, market cap, etc.).
@@ -115,3 +117,10 @@ For continuous testing with Jest in watch mode, run:
 npm run test:watch
 ```
 
+### ✉ Connect With Me:
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MichalStefanow)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikolic.miloje0507@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mylord1_1)
+[![Skype Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/ubWuVGchDEnU)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/509337382810550280)
